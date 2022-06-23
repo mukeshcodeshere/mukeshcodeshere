@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mukesh -> @mukeshcodeshere
+- 👋 Hi, I’m Mukesh ; I am a data engineer. -> @mukeshcodeshere
 - 👀 I’m interested in distributed computing, data engineering and financial technologies.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on data engineering/science/fintech projects.
