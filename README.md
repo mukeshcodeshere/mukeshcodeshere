@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mukesh and I work as a data engineer. -> @mukeshcodeshere
-- 👀 I’m interested in distributed computing, data engineering and financial technologies.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on data engineering/science/fintech projects.
-- 📫 How to reach me -> you can find me on Linkedin @ https://www.linkedin.com/in/mukesh1996/
+- 👋 Hi, I’m Mukesh ; I am a Data Engineer. @mukeshcodeshere
+- 👀 I’m interested in data engineering, data infrastructure, distributed computing ,data science, quantum computing ,automation and FinTech.
+- 🌱 I’m currently learning big data tools, cloud computing and data science.
+- 💞️ I’m looking to collaborate on data engineering, data science and fintech projects. 
+- 📫 You can reach me on LinkedIn @ linkedin.com/in/mukesh1996/
 
 <!---
 mukeshcodeshere/mukeshcodeshere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
