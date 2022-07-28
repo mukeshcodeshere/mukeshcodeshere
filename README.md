@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mukesh ; I am a Strategist/Data Scientist. @mukeshcodeshere
-- 👀 I’m interested in distributed computing ,data science & engineering, quantum computing ,automation and FinTech.
-- 🌱 I’m currently learning big data tools, cloud computing and data science.
-- 💞️ I’m looking to collaborate on data engineering, data science and fintech projects. 
+- 👋 Hi, I’m Mukesh ; I am an Associate in the Strats Team at GIC. @mukeshcodeshere
+- 👀 I’m interested in quantitative finance ,data science & engineering, quantum computing ,automation and FinTech.
+- 🌱 I’m currently learning quantitative finance and data science.
+- 💞️ I’m looking to collaborate on quantitative, data science and fintech projects. 
 - 📫 You can reach me on LinkedIn @ linkedin.com/in/mukesh1996/
 
 <!---
